@@ -37,7 +37,7 @@ Meet the dedicated team behind this project:
 
 1. *Anshika Gupta (Web Developer)*
    - Email: g.anshikacreative@gmail.com
-   - GitHub: [Anishka-Dev-anshika98](https://github.com/Dev-anshika98)
+   - GitHub: [Anshika-Dev-anshika98](https://github.com/Dev-anshika98)
 
 2. *Siddharth Yadav (Android Developer)*
    - Email: siddharthyadav5142@gmail.com
